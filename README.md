@@ -14,7 +14,7 @@ Welcome to Tindog, the ultimate matchmaking platform designed exclusively for do
 
 ### Links
 
-- Solution URL: (https://github.com/HKES-04/Survey-Form.git)
+- Solution URL: (https://github.com/HKES-04/TinDog-Website.git)
 - Live Site URL: (https://hkes-04.github.io/Survey-Form/)
 
 ## My process
